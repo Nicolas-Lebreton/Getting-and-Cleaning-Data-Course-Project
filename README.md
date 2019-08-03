@@ -41,7 +41,7 @@ In order to run the script, Simply source the "run_analysis.R" script with the "
 
 
 * Step 4 - Renaming columns with comprehensive names
-    1. Sub-step 1 - Using Regexp to rename columns based on the abreviated names in original dataset
+    1. Sub-step 1 - Using Regexp to rename columns based on the abbreviated names in original dataset
 
 
 * Step 5 - Creating independant dataframe for data outputing
